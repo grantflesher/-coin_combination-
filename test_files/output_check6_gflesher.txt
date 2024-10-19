@@ -1,0 +1,7 @@
+Input from test6.txt:
+3 2 1
+90
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): Enter your goal numerical amount: Working Combo [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] gets the goal of 90 in 0.000009060 seconds with [3, 2, 1] coins.

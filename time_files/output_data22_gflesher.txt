@@ -1,0 +1,9 @@
+Input from data22_gflesher.txt:
+4 6 9
+57
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [9, 9, 9, 9, 9, 6, 6] gets the goal of 57 in 0.000012159 seconds with [9, 6, 4] coins.

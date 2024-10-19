@@ -1,0 +1,9 @@
+Input from data11_gflesher.txt:
+3 7
+17
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [7, 7, 3] gets the goal of 17 in 0.000009775 seconds with [7, 3] coins.

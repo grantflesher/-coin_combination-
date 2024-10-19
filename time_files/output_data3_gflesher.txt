@@ -1,0 +1,9 @@
+Input from data3_gflesher.txt:
+302 23 329
+0
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [] gets the goal of 0 in 0.000000477 seconds with [329, 302, 23] coins.

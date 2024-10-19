@@ -1,0 +1,9 @@
+Input from data50_gflesher.txt:
+32454 32465 23658 3 2
+88592
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [32465, 32465, 23658, 2, 2] gets the goal of 88592 in 0.000015974 seconds with [32465, 32454, 23658, 3, 2] coins.

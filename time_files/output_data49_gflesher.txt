@@ -1,0 +1,9 @@
+Input from data49_gflesher.txt:
+456 324 876 321 753
+2154
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [753, 753, 324, 324] gets the goal of 2154 in 0.000125408 seconds with [876, 753, 456, 324, 321] coins.

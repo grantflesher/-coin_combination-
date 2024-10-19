@@ -1,0 +1,9 @@
+Input from data30_gflesher.txt:
+315 642 5795
+15733
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [5795, 5795, 642, 642, 642, 642, 315, 315, 315, 315, 315] gets the goal of 15733 in 0.000017166 seconds with [5795, 642, 315] coins.

@@ -1,0 +1,9 @@
+Input from data37_gflesher.txt:
+132 543 486 2348
+13614
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [2348, 2348, 2348, 543, 543, 543, 543, 543, 543, 486, 486, 486, 486, 486, 486, 132, 132, 132] gets the goal of 13614 in 0.007914305 seconds with [2348, 543, 486, 132] coins.

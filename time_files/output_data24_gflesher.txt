@@ -1,0 +1,9 @@
+Input from data24_gflesher.txt:
+3 7 11
+85
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [11, 11, 11, 11, 11, 11, 7, 3, 3, 3, 3] gets the goal of 85 in 0.000022173 seconds with [11, 7, 3] coins.

@@ -1,0 +1,9 @@
+Input from data43_gflesher.txt:
+4 7 9 13 43
+123
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [43, 43, 13, 13, 7, 4] gets the goal of 123 in 0.000016451 seconds with [43, 13, 9, 7, 4] coins.

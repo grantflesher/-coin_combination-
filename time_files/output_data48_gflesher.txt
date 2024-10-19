@@ -1,0 +1,9 @@
+Input from data48_gflesher.txt:
+654 652 453 845 872
+44216
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 872, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 845, 654, 654, 654, 654, 652, 652, 652, 652, 453, 453, 453, 453, 453, 453, 453, 453, 453, 453, 453, 453, 453, 453] gets the goal of 44216 in 0.014140368 seconds with [872, 845, 654, 652, 453] coins.

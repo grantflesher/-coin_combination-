@@ -1,0 +1,9 @@
+Input from data44_gflesher.txt:
+12 54 34 53 57
+540
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [57, 57, 57, 57, 57, 57, 57, 57, 12, 12, 12, 12, 12, 12, 12] gets the goal of 540 in 0.000068903 seconds with [57, 54, 53, 34, 12] coins.

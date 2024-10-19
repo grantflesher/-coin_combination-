@@ -1,0 +1,7 @@
+Input from test3.txt:
+2 23 321 6120 65498
+111111
+Output:
+DumbSAT-style Coin Combination Solver
+
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): Enter your goal numerical amount: Working Combo [6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 6120, 321, 321, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 2, 2, 2, 2, 2] gets the goal of 111111 in 2.282092571 seconds with [65498, 6120, 321, 23, 2] coins.
