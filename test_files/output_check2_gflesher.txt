@@ -4,4 +4,6 @@ Input from test2.txt:
 Output:
 DumbSAT-style Coin Combination Solver
 
-Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): Enter your goal numerical amount: Working Combo [37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 24, 5, 2, 1] gets the goal of 513 in 0.000014305 seconds with [37, 24, 5, 2, 1] coins.
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+Working Combo [37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 24, 5, 2, 1] gets the goal of 513 in 0.000014305 seconds with [37, 24, 5, 2, 1] coins.

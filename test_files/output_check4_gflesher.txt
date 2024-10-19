@@ -4,4 +4,6 @@ Input from test4.txt:
 Output:
 DumbSAT-style Coin Combination Solver
 
-Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): Enter your goal numerical amount: No Solution found in 0.000011921 seconds for goal 7 with [6, 4] coins.
+Provide the coins you would like to use with spaces inbetween (max 5 coins and 20 of each coin): 
+Enter your goal numerical amount: 
+No Solution found in 0.000011921 seconds for goal 7 with [6, 4] coins.
